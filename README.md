@@ -1,4 +1,5 @@
-🤖 semie 🔑 Bot
-This is a WhatsApp bot built using the Baileys library for group management, including features like tagging all members, muting/unmuting, and many more. It's designed to help admins efficiently manage WhatsApp groups.
+🚀 Steps to Deploy
+Step 1: Fork the Repository
+Click the button below to fork the semie veer Bot repository to your GitHub account:
 
-Typing SVG
+Fork the repository
